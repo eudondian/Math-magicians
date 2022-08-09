@@ -27,8 +27,8 @@ npm run build
 npm starts.
 
 ### Prerequisites
-Basic HTML/CSS
-Basic Javascript
+- Basic HTML/CSS
+- Basic Javascript
 
 ### Setup
 - Choose the directory that you want to clone the repository.

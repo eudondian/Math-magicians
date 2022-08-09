@@ -2,7 +2,7 @@
 
 # Math Magician
 
-> This project was bootstrapped with Create React App.
+> This is a React app for a calculator that enables users to do mathematical operations
 
 
 ## Built With
@@ -31,13 +31,17 @@ Basic HTML/CSS
 Basic Javascript
 
 ### Setup
-
-### Install
+Choose the directory that you want to clone the repository.
+Open the command prompt in this directory and type 
+git clone https://github.com/eudondian/Math-magicians.git
+Navigate to the repository's location and open it on visual studio.
+Write npm start to start the application on the browser.
 
 ### Usage
+Users can navigate to the different sections of the page on the browser and do calculations.
 
 ### Run tests
-
+Input different values whose results are known to test out the functionality of the app.
 ### Deployment
 
 

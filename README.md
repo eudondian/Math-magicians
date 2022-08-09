@@ -31,11 +31,11 @@ Basic HTML/CSS
 Basic Javascript
 
 ### Setup
-Choose the directory that you want to clone the repository.
-Open the command prompt in this directory and type 
-git clone https://github.com/eudondian/Math-magicians.git
-Navigate to the repository's location and open it on visual studio.
-Write npm start to start the application on the browser.
+- Choose the directory that you want to clone the repository.
+- Open the command prompt in this directory and type 
+- git clone https://github.com/eudondian/Math-magicians.git
+- Navigate to the repository's location and open it on visual studio.
+- Type npm start to start the application on the browser.
 
 ### Usage
 Users can navigate to the different sections of the page on the browser and do calculations.

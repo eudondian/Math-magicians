@@ -11,7 +11,7 @@ const Calculator = () => {
     <>
       <div className="container">
         <div>
-          <h1>Let&apos;s do some math!</h1>
+          <h1>Let&apos;s do some math</h1>
         </div>
         <div>
           <div className="initial-zero">

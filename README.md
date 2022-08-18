@@ -2,7 +2,7 @@
 
 # Math Magician
 
-> This is a React app for a calculator that enables users to do mathematical operations
+> This is a React app for a calculator that enables users to do mathematical operations and also generate random math-related quotes.
 
 
 ## Built With

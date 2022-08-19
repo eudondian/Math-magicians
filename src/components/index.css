@@ -11,15 +11,20 @@ body {
   flex-direction: column;
   align-items: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-image: url('../Assets/tp244-bg4-05.jpg');
+  background-size: cover;
+  color: rgb(219, 213, 213);
 }
 
+
 .nav {
-  background-color: black;
-  color: white;
+  background-color: rgb(28, 70, 99);
+  color: rgb(219, 213, 213);
   display: flex;
-  justify-content: space-between;
+  justify-content:space-between;
   gap: 1rem;
   padding: 0 1rem;
+  width: 100%;
 }
 
 .nav ul {

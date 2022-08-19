@@ -42,7 +42,7 @@ ul a {
   display: flex;
   margin-top: 20px;
   justify-content: center;
-  gap: 15rem;
+  gap: 5rem;
 }
 
 .home {
